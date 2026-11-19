@@ -1,0 +1,1 @@
+{"description":"A GitHub-compatible git forge in one Node process: git smart HTTP, REST v3, GraphQL and MCP over a shared in-memory store.","engines":{"node":">=22"},"license":"MIT","name":"makefun-forge","private":true,"type":"module","version":"1.0.0"}
